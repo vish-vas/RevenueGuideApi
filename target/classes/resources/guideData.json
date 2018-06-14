@@ -1,0 +1,939 @@
+{
+	"version" : 0,
+	"guideData" : 
+	[
+	    {
+	        "metadata": {
+	            "yearFrom": 2016,
+	            "yearTo": 2017,
+	            "name": "SRO Revenue Estimates, Rates and Grants 2016-17",
+	            "yearName": "2016-17"
+	        },
+	        "data": [
+	            {
+	                "key": "revenueEstimates",
+	                "heading": "Revenue estimates 2016-17 ($M)",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Revenue Line", "$M"],
+	                            ["Payroll Tax", "6,304"],
+	                            ["Land Transfer Duty", "5,677"],
+	                            ["Land Tax", "2,226"],
+	                            ["General Insurance Duty", "1,027"],
+	                            ["Motor Vehicle Duty (VicRoads)", "802"],
+	                            ["Fire Services Property Levy", "674"],
+	                            ["Duty on Compulsary Third Party Insurance (TAC)", "193"],
+	                            ["GAIC", "146"],
+	                            ["Congestion Levy", "115"],
+	                            ["Liquor Licence Fees", "22"],
+	                            ["Metropolitan Planning Levy", "17"],
+	                            ["Other Miscellaneous Duties", "3"],
+	                            ["<b>TOTAL</b>", "<b>17,206</b>"]
+	                        ]
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "congestionLevy",
+	                "heading": "Congestion levy",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Congestion Levy Area", "Levy For 2016 Calendar Year"],
+	                            ["Category 1", "$1360 per car space per annum"],
+	                            ["Category 2", "$960 per car space per annum"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Levy rates are indexed annually by CPI, and are published on our website in mid-November for the following calendar year.<br/>Maps are included."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/carparks"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "dutyOnEstablishmentOfATrust",
+	                "heading": "Duty on establishment of a trust",
+	                "alternateHeading": "Duty on Establishment of a Trust",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["", "Duty"],
+	                            ["Unidentified property and non-dutiable property", "$200"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/trustdeclaration"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "firstHomeOwnerGrant",
+	                "heading": "First home owner grant (FHOG)",
+	                "items": [
+	                    {
+	                        "type": "headingDescription",
+	                        "text": "For Contracts Entered Into On Or After 1 July 2013"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["", "Grant"],
+	                            ["New homes and new residential premises", "$10,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "The price of the property or construction of the home must not exceed $750,000. An exception to this requirement is where the contract relates to a home that is on, or is to be built on, primary production land."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/firsthomeowner"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "generalInsuranceDuty",
+	                "heading": "General insurance duty",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "10% of gross premium."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/insurance"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "growthAreasInfrastructureContribution",
+	                "heading": "Growth areas infrastructure contribution (GAIC)",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Calculated on a per-hectare basis for land in the contribution area:"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Land Type", "Rate Per Hectare"],
+	                            ["Type A", "$91,850"],
+	                            ["Type B-2", "$109,080"],
+	                            ["Type B-1", "$109,080"],
+	                            ["Type C", "$109,080"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "The threshold amount for excluded building works is $1,148,260.<br/><br/>Where applicable, the rate of interest payable on GAIC liabilities which are deferred or subject to a staged payment approval is 2.2908%.<br/><br/>GAIC rates and the threshold for excluded building works are indexed annually by CPI. The rate of interest payable on GAIC is calculated utilising the 10-year Treasury bond rate.<br/><br/>The rates for 2017-18 will be published on our website by mid-June 2017."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/gaic"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "landTax",
+	                "heading": "Land tax",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Taxable Value", "Tax"],
+	                            ["< $250,000","NIL"],
+	                            ["$250,000 to < $600,000","$275 plus 0.2% of amount > $250,000"],
+	                            ["$600,000 to < $1,000,000","$975 plus 0.5% of amount > $600,000"],
+	                            ["$1,000,000 to < 1,800,000","$2975 plus 0.8% of amount > $1,000,000"],
+	                            ["$1,800,000 to < $3,000,000","$9375 plus 1.3% of amount > $1,800,000"],
+	                            ["$3,000,000 and over","$24,975 plus 2.25% of amount > $3,000,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtax"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Absentee owner surcharge"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Absentee owners will be subject to an additional surcharge on the taxable value of their taxable land holdings."
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Land Tax Year", "Surcharge"],
+	                            ["2016","0.5%"],
+	                            ["2017 and onwards","1.5%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/aos"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "landTaxTrusts",
+	                "heading": "Land tax (trusts)",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Taxable Value", "Tax"],
+	                            ["< $25,000","NIL"],
+	                            ["$25,000 to < $250,000","$82 plus 0.375% of amount > $25,000"],
+	                            ["$250,000 to < $600,000","$926 plus 0.575% of amount > $250,000"],
+	                            ["$600,000 to < $1,000,000","$2938 plus 0.875% of amount > $600,000"],
+	                            ["$1,000,000 to < $1,800,000","$6438 plus 1.175% of amount > $1,000,000"],
+	                            ["$1,800,000 to < $3,000,000","$15,838 plus 0.7614%* of amount > $1,800,000"],
+	                            ["$3,000,000 and over","$24,975 plus 2.25% of amount > $3,000,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "The surcharge phases out for landholdings in excess of $1.8 million. For landholdings valued at or over $3 million, the surcharge rate is the same as the general rate."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtaxtrusts"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "landTransferDuty",
+	                "heading": "Land transfer duty",
+	                "items": [
+	                    {
+	                        "type": "headingDescription",
+	                        "text": "Duty on transfer of land and land use entitlements"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Non-Principal Place of Residence (Non-PPR) Rates"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Consideration/ Market Value", "Duty"],
+	                            ["$25,000 or less","1.4%"],
+	                            ["> $25,000 to $130,000","$350 plus 2.4% of amount > $25,000"],
+	                            ["> $130,000 to $960,000","$2870 plus 6% of amount > $130,000"],
+	                            ["> $960,000","5.5%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Duty is rounded to the nearest whole dollar."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtransferduty"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Principal Place of Residence (PPR) Rates"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Consideration/ Market Value", "Duty"],
+	                            ["$130,000 or less*","Does not apply"],
+	                            ["> $130,000 to $440,000","$2870 plus 5% of amount > $130,000"],
+	                            ["> $440,000 to $550,000","$18,370 plus 6% of amount > $440,000"],
+	                            ["> $550,000*","Does not apply"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "Please refer to the non-PPR rates of duty."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/pprdutyconcession"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Eligible First-Home Buyer Rates"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Consideration/ Market Value", "Duty"],
+	                            ["$0 to $25,000","1.4% less 50%"],
+	                            [">$25,000 to $130,000","$350 plus 2.4% of amount >$25,000 less 50%"],
+	                            [">$130,000 to $440,000","$2870 plus 5% of amount >$130,000 less 50%"],
+	                            [">$440,000 to $550,000","$18,370 plus 6% of amount >$440,000 less 50%"],
+	                            [">$550,000 to $600,000","$28,070 plus 6% of amount >$550,000 less 50%"],
+	                            [">$600,000","Does not apply"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/fhbdutyreduction"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Duty Payable For Foreign Purchasers"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Foreign purchasers of residential property who enter into a contract or transaction on or after 1 July 2016 are liable for 7% land transfer duty in addition to the duty normally payable. Also applies to landholder transactions.<br/>The additional duty is 3% for contracts or transactions entered into on or after 1 July 2015 and before 1 July 2016."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/foreignpurchaser"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "metropolitanPlanningLevy",
+	                "heading": "Metropolitan planning levy (MPL)",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Payable on planning permit applications made in metropolitan Melbourne, where the estimated costs of the development exceed the threshold amount.<br/>A person must apply for an MPL certificate and pay the MPL before they can make a leviable planning permit application."
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "2016-17 Threshold Amount"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "$1,013,692.16<br/><br/>Threshold is indexed annually by CPI.<br/>The 2017-18 threshold will be published on our website by 31 May 2017."
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "MPL Rate"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "$1.30 for every $1000 of the estimated cost of the development for which the leviable planning permit is required.<br/>If the estimated development cost is not a multiple of $1000, it is to be rounded off. If the amount to be rounded is exactly $500, it will be rounded up."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/mpl"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "motorVehicleDuty",
+	                "heading": "Motor vehicle duty*",
+	                "items": [
+	                    {
+	                        "type": "subHeading",
+	                        "text": "New Passenger"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Consideration/ Market Value", "Duty"],
+	                            ["$64,132 or less", "$6.40 per $200 or part thereof"],
+	                            ["> $64,132", "$10.40 per $200 or part thereof"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": false,
+	                        "rows": [
+	                            ["NEW NON-PASSENGER", "$5.40 per $200 or part thereof"],
+	                            ["USED (PREVIOUSLY REGISTERED)", "$8.40 per $200 or part thereof"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "Collected by VicRoads."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/motorvehicles"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "payrollTax",
+	                "heading": "Payroll tax",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Tax-free threshold 2016-17: $575,000<br/><br/>Tax rate: 4.85%"
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/payrolltax"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "disclaimer",
+	                "heading": "Disclaimer",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Revenue estimates are as at 30 June 2016. <br/><br/>Updated estimates are periodically issued and are available at <b>dtf.vic.gov.au</b>. All other rates, grants and levies quoted in this publication are intended as a guide only. <br/><br/>While every effort is made to ensure that the information contained in this publication is accurare, the SRO makes no representations or warranties in relation to its accuracy as it is subject to change. Any person using, or relying on, this information accepts the risk for doing so. The SRO does not accept any responsibility or liability for any loss, damage, cost or expense any person might incur as a result of the use of, or reliance on, this information."
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "furtherInformation",
+	                "heading": "Further information",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Please refer to <b>sro.vic.gov.au</b> for further information about revenue, rates and grants for the current and previous years.<br/><br/>&copy; JULY 2016"
+	                    }
+	                ]
+	            }
+	        ]
+	    },
+	    {
+	        "metadata": {
+	            "yearFrom": 2017,
+	            "yearTo": 2018,
+	            "name": "SRO Revenue Estimates, Rates and Grants 2017-18",
+	            "yearName": "2017-18"
+	        },
+	        "data": [
+	            {
+	                "key": "revenueEstimates",
+	                "heading": "Revenue estimates 2017-18 ($M)",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Revenue Line", "$M"],
+	                            ["Payroll tax", "6,539"],
+	                            ["Land transfer duty", "6,164"],
+	                            ["Land tax", "2,356"],
+	                            ["General insurance duty", "1,090"],
+	                            ["Motor vehicle duty (VicRoads)", "925"],
+	                            ["Fire services property levy", "674"],
+	                            ["Duty on compulsary third party insurance (TAC)", "199"],
+	                            ["GAIC", "175"],
+	                            ["Congestion levy", "118"],
+	                            ["Metropolitan planning levy", "27"],
+	                            ["Liquor licence fees", "23"],
+	                            ["Other miscellaneous duties", "1"],
+	                            ["<b>TOTAL</b>", "<b>18,291</b>"]
+	                        ]
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "congestionLevy",
+	                "heading": "Congestion levy",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Congestion Levy Area", "Levy For 2017 Calendar Year"],
+	                            ["Category 1", "$1380 per car space per annum"],
+	                            ["Category 2", "$980 per car space per annum"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Levy rates for the 2018 calendar year will be indexed by CPI and published on our website in mid-November 2017.<br/><br/>Maps of both levy areas are also available on our website."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/carparks"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "dutyOnEstablishmentOfATrust",
+	                "heading": "Duty on establishment of a trust",
+	                "alternateHeading": "Duty on Establishment of a Trust",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Instrument", "Duty"],
+	                            ["Unidentified property and non-dutiable property", "$200"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/trustdeclaration"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "firstHomeOwnerGrant",
+	                "heading": "First home owner grant (FHOG)",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Available for new homes and new residential properties."
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Region/Contract Date", "Grant"],
+	                            ["<b>METROPOLITAN</b><br/>Contracts entered into on or after 1 July 2013", "$10,000"],
+	                            ["<b>REGIONAL VICTORIA</b><br/>Contracts entered into on or after 1 July 2013 and prior to 1 July 2017", "$10,000"],
+	                            ["<b>REGIONAL VICTORIA</b><br/>Contracts entered into on or after 1 July 2017", "$20,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "To qualify for either grant, the price of the property or construction of the home must not exceed $750,000. An exception to this requirement is where the contract relates to a home that is on, or is to be built on, primary production land.<br/><br/>A definition of regional Victoria is available on our website (sro.vic.gov.au/regional)."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/firsthomeowner"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "generalInsuranceDuty",
+	                "heading": "General insurance duty",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": false,
+	                        "rows": [
+	                            ["Percentage of gross premium", "10%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Insurance covering crops, livestock or agricultural machinery is exempt from insurance duty from 1 July 2017."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/insurance"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "growthAreasInfrastructureContribution",
+	                "heading": "Growth areas infrastructure contribution (GAIC)",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Calculated on a per-hectare basis for land in the contribution area:"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Land Type", "Rate Per Hectare"],
+	                            ["Type A", "$93,400"],
+	                            ["Type B-2", "$110,930"],
+	                            ["Type B-1", "$110,930"],
+	                            ["Type C", "$110,930"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "The threshold amount for excluded building works is $1,167,700.<br/><br/>Where applicable, the rate of interest payable on GAIC liabilities which are deferred or subject to a staged payment approval is 2.8953%.<br/><br/>The rates for 2018-19 will be published on our website by mid-June 2018."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/gaic"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "landTax",
+	                "heading": "Land tax",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Taxable Value", "Tax"],
+	                            ["< $250,000","NIL"],
+	                            ["$250,000 to < $600,000","$275 plus 0.2% of amount > $250,000"],
+	                            ["$600,000 to < $1,000,000","$975 plus 0.5% of amount > $600,000"],
+	                            ["$1,000,000 to < 1,800,000","$2975 plus 0.8% of amount > $1,000,000"],
+	                            ["$1,800,000 to < $3,000,000","$9375 plus 1.3% of amount > $1,800,000"],
+	                            ["$3,000,000 and over","$24,975 plus 2.25% of amount > $3,000,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtax"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Absentee owner surcharge"
+	                    },{
+	                        "type": "paragraph",
+	                        "text": "Absentee owners are subject to an additional surcharge on the taxable value of their taxable land holdings."
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Land Tax Year", "Surcharge"],
+	                            ["2016","0.5%"],
+	                            ["2017 and onwards","1.5%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/aos"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "landTaxTrusts",
+	                "heading": "Land tax (trusts)",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Taxable Value", "Tax"],
+	                            ["< $25,000","NIL"],
+	                            ["$25,000 to < $250,000","$82 plus 0.375% of amount > $25,000"],
+	                            ["$250,000 to < $600,000","$926 plus 0.575% of amount > $250,000"],
+	                            ["$600,000 to < $1,000,000","$2938 plus 0.875% of amount > $600,000"],
+	                            ["$1,000,000 to < $1,800,000","$6438 plus 1.175% of amount > $1,000,000"],
+	                            ["$1,800,000 to < $3,000,000","$15,838 plus 0.7614%* of amount > $1,800,000"],
+	                            ["$3,000,000 and over","$24,975 plus 2.25% of amount > $3,000,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "The surcharge phases out for landholdings in excess of $1.8 million. For landholdings valued at or over $3 million, the surcharge rate is the same as the general rate."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtaxtrusts"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Land tax clearance certificate fee"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": false,
+	                        "rows": [
+	                            ["2017-18 financial year", "$16.50"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtaxcertificate"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "landTransferDuty",
+	                "heading": "Land transfer duty",
+	                "items": [
+	                    {
+	                        "type": "headingDescription",
+	                        "text": "Duty on transfer of land and land use entitlements"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Non-Principal Place of Residence (Non-PPR) Rates"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Dutiable Value", "Duty*"],
+	                            ["$25,000 or less","1.4%"],
+	                            ["> $25,000 to $130,000","$350 plus 2.4% of amount > $25,000"],
+	                            ["> $130,000 to $960,000","$2870 plus 6% of amount > $130,000"],
+	                            ["> $960,000","5.5%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "Duty is rounded to the nearest whole dollar."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/landtransferduty"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Principal Place of Residence Rates"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Dutiable Value", "Duty"],
+	                            ["$25,000 or less","1.4%"],
+	                            ["> $25,000 to $130,000","$350 plus 2.4% of amount > $25,000"],
+	                            ["> $130,000 to $440,000","$2870 plus 5% of amount > $130,000"],
+	                            ["> $440,000 to $550,000","$18,370 plus 6% of amount > $440,000"],
+	                            ["> $550,000*","Does not apply"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "Please refer to the non-PPR rates of duty."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/pprdutyconcession"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Eligible First-Home Buyer Rates"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Dutiable Value", "Duty"],
+	                            ["$0 to $600,000","No duty payable"],
+	                            ["> $600,000 to &le; $750,000","Concessional rate of duty, calculated on a sliding scale"],
+	                            ["> $750,000","No excemption or concession applies"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/fhbdutyreduction"
+	                    },
+	                    {
+	                        "type": "br"
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "Foreign Purchasers of Residential Property"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Foreign purchasers of residential property who enter into a contract or transaction are liable for duty in addition to the duty normally payable. This also applies to landholder transactions."
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Contract Date", "Rate"],
+	                            ["Contracts or transactions entered into on or after 1 July 2015 and before 1 July 2016","3%"],
+	                            ["Contracts or transactions entered into on or after 1 July 2016","7%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/foreignpurchaser"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "metropolitanPlanningLevy",
+	                "heading": "Metropolitan planning levy (MPL)",
+	                "items": [
+	                    {
+	                        "type": "subHeading",
+	                        "text": "2017-18 Threshold Amount"
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": false,
+	                        "rows": [
+	                            ["2017-18 threshold amount", "$1,029,000"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "The threshold amount is indexed anually by CPI. The 2018-19 threshold will be published on our website by 31 May 2018."
+	                    },
+	                    {
+	                        "type": "subHeading",
+	                        "text": "MPL Rate"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "$1.30 for every $1000 of the estimated cost of the development for which the leviable planning permit is required.<br/><br/>If the estimated development cost is not a multiple of $1000, it is to be rounded up or down to the nearest $1000. If the amount to be rounded is exactly $500, it will be rounded up."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/mpl"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "motorVehicleDuty",
+	                "heading": "Motor vehicle duty*",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Vehicle", "New", "Used"],
+	                            ["Passenger car ($0-$65,094)", "$8.40 per $200 or part of thereof", "$8.40 per $200 or part of thereof"],
+	                            ["Luxury passenger car (> $65,094)", "$10.40 per $200 or part of thereof", "$8.40 per $200 or part of thereof"],
+	                            ["Non-passenger vehicle", "$5.40 per $200 or part of thereof", "$8.40 per $200 or part of thereof"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "Collected by VicRoads."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/motorvehicles"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "payrollTax",
+	                "heading": "Payroll tax",
+	                "items": [
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Threshold & Rates", "Amount"],
+	                            ["Tax-free threshold 2017-18", "$625,000"],
+	                            ["Tax rate", "4.85%"],
+	                            ["Tax rate (regional Victorian employers*)", "3.65%"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "comment",
+	                        "text": "You are a regional employer if you are based in regional Victoria, and pay at least 85 per cent of your Victorian taxable wages to regional employees.<br/><br/>You are based in regional Victoria if you:<br/><ul><li>Have an ABN and your ABN registered business is located in regional Victoria, or</li><li>Do not have an ABN, your principal place of business is located in regional Victoria</li></ul>"
+	                    },
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Further information on regional employers and a definition of regional Victoria are available on our website (sro.vic.gov.au/regional)."
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/payrolltax"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "vacantResidentialLandTax",
+	                "heading": "Vacant residential land tax",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Residential properties in the inner and middle municipalities of Melbourne which remain unoccupied for more than six months a year will be subject to a tax from the 2018 land tax year. The six-month period does not need to be consecutive. <br/><br/><b>Rate:</b> 1% of the capital improved value of taxable land. <br/><br/>The tax is based on use and occupation in the preceding year (e.g. liability for the 2018 tax year will be based on vacancy in 2017)."
+	                    },
+	                    {
+	                        "type": "table",
+	                        "firstRowIsHeading": true,
+	                        "rows": [
+	                            ["Melbourne Inner and Middle Municipalities"],
+	                            ["Banyule"],
+	                            ["Bayside"],
+	                            ["Boroondara"],
+	                            ["Darebin"],
+	                            ["Glen Eira"],
+	                            ["Hobsons Bay"],
+	                            ["Manningham"],
+	                            ["Maribyrnong"],
+	                            ["Melbourne"],
+	                            ["Monash"],
+	                            ["Moonee Valley"],
+	                            ["Moreland"],
+	                            ["Port Phillip"],
+	                            ["Stonnington"],
+	                            ["Whitehorse"],
+	                            ["Yarra"]
+	                        ]
+	                    },
+	                    {
+	                        "type": "link",
+	                        "text": "sro.vic.gov.au/vacant"
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "disclaimer",
+	                "heading": "Disclaimer",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Revenue estimates are as at 30 June 2017. <br/><br/>Updated estimates are periodically issued and are available at <b>dtf.vic.gov.au</b>. All other rates, grants and levies quoted in this publication are intended as a guide only. <br/><br/>While every effort is made to ensure that the information contained in this publication is accurare, the SRO makes no representations or warranties in relation to its accuracy as it is subject to change. Any person using, or relying on, this information accepts the risk for doing so. The SRO does not accept any responsibility or liability for any loss, damage, cost or expense any person might incur as a result of the use of, or reliance on, this information."
+	                    }
+	                ]
+	            },
+	            {
+	                "key": "furtherInformation",
+	                "heading": "Further information",
+	                "items": [
+	                    {
+	                        "type": "paragraph",
+	                        "text": "Please refer to <b>sro.vic.gov.au</b> for further information about revenue, rates and grants for the current and previous years.<br/><br/>&copy;State of Victoria (State Revenue Office) 2017"
+	                    }
+	                ]
+	            }
+	        ]
+	    },
+	    {
+	        "metadata": {
+	            "yearFrom": 2018,
+	            "yearTo": 2019,
+	            "name": "SRO Revenue Estimates, Rates and Grants 2018-19",
+	            "yearName": "2018-19"
+	        },
+	        "data": [],
+	        "dataNotAvailableMessage": "It is anticipated that our Revenue Estimates, Rates and Grants' 2018-19 will be released in July 2018."
+	    }
+	]
+}
